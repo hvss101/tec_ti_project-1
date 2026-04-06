@@ -5,6 +5,11 @@ Projeto da disciplina Projeto Integrador com objetivo de criar um sistema de ele
 
 ## 🎯 Objetivo
 Desenvolver um sistema que com base no numero de eleitores, candidatos e pessoas que irão votar, gere um resultado em um dashboard.
+Cadastro de candidatos
+Cadastro de eleitores
+Votação
+Apuração dos votos
+Resultado final.
 
 ## 👥 Integrantes
 - Enzo Dassi Carvalho Ferreira
