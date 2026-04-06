@@ -27,10 +27,12 @@ Resultado final.
 - Ferramenta Banco de Dados, VSCODE.
 
 
-## 📂 Estrutura do projeto
-- /src → código fonte
-- /docs → documentação
-- /tests → testes
+🔹 Funcionalidades básicas:
+Cadastro de candidato
+Cadastro de eleitor
+Votar (1 voto por pessoa)
+Contagem de votos
+Mostrar resultado
 
 ## 📅 Status
 🚧 Em desenvolvimento
